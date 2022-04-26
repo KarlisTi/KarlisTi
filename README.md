@@ -10,4 +10,4 @@ Here I will put my projects, training exercises, and some interesting stuff abou
 
 - 🔭 I’m currently working on Flight-planner
 - 🌱 I’m currently learning JAVA, Spring Boot, Rest API, Angular
-- 👯 In my free time I learning about Linux
+- :beginner: In my free time I learning about Linux
