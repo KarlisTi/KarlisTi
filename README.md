@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width=300/>
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width=500/>
 </div>
 
 The software developer journey starts here on Github. :rocket:
