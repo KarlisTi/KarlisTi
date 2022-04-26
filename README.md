@@ -4,12 +4,10 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif"/>
 </div>
 
-<!--
-**KarlisTi/KarlisTi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The software developer journey starts here on Github. :rocket
 
-Here are some ideas to get you started:
+Here I will put my projects, training exercises, and some interesting stuff about development. :briefcase
 
 - 🔭 I’m currently working on Flight-planner
 - 🌱 I’m currently learning JAVA, Spring Boot, Rest API, Angular
 - 👯 I’m looking to collaborate on new projects
--->
