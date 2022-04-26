@@ -10,6 +10,6 @@ Here I will put my projects, training exercises, and some interesting stuff abou
 - 🌱 I’m currently learning JAVA, Spring Boot, Rest API, Angular
 - :beginner: In my free time I learn about Linux
 - How to reach me
-- <div id="badges"> <a href="www.linkedin.com/in/karlis-tiltins">
+- <div id="badges"> <a href="https://www.linkedin.com/in/karlis-tiltins/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
